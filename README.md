@@ -14,13 +14,10 @@ The parametric equations you provided define the surface of the double cone in 3
    - \( -2 \leq v \leq 2 \) (height along the axis)
 
 2. **Variables**:
-   - \( u \): This parameter controls the angle around the axis of the double cone. It ranges from \( 0 \) to \( 2\pi \), which means it sweeps a full circle around the axis.
-   - \( v \): This parameter controls the height along the axis of the double cone. It ranges from \(-2\) to \(2\), which means it covers the length of the double cone.
-
-3. **Components**:
-   - **\( x = v \cos(u) \)**: This equation defines the x-coordinate of a point on the surface. The \( v \) term scales the radius of the cone, and \( \cos(u) \) determines the position around the circle at that height.
-   - **\( y = (e^{\sin(v)} - 1) \cos\left(u + \frac{\pi}{3}\right) \)**: This equation defines the y-coordinate. The term \( e^{\sin(v)} - 1 \) introduces a sinusoidal variation in the radius, and \( \cos\left(u + \frac{\pi}{3}\right) \) shifts the angle by \( \frac{\pi}{3} \).
-   - **\( z = 1 - e^{c \cos(v)} \cos\left(u - \frac{2\pi}{3}\right) \)**: This equation defines the z-coordinate. The term \( e^{c \cos(v)} \) introduces another exponential variation, and \( \cos\left(u - \frac{2\pi}{3}\right) \) shifts the angle by \( \frac{2\pi}{3} \).
+   ![Image](https://github.com/user-attachments/assets/fbcd15be-4999-4887-9fa4-d49c76340785)
+   
+4. **Components**:
+   ![Image](https://github.com/user-attachments/assets/19072435-7f3d-424f-88b3-819c322fee6b)
 
 ### Visualization in Code
 
