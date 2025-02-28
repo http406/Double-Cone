@@ -7,6 +7,7 @@ A **double cone** is a geometric shape formed by two identical cones that share 
 The parametric equations you provided define the surface of the double cone in 3D space. Let's break down the equations:
 
 1. **Parametric Equations**:
+
    ![Image](https://github.com/user-attachments/assets/b4a22660-18e4-4960-bd91-dd1ba4ac28bf)
 
    Here, \( u \) and \( v \) are parameters that vary over specific ranges:
@@ -14,10 +15,13 @@ The parametric equations you provided define the surface of the double cone in 3
    - \( -2 \leq v \leq 2 \) (height along the axis)
 
 2. **Variables**:
+
    ![Image](https://github.com/user-attachments/assets/fbcd15be-4999-4887-9fa4-d49c76340785)
    
-4. **Components**:
+3. **Components**:
+
    ![Image](https://github.com/user-attachments/assets/19072435-7f3d-424f-88b3-819c322fee6b)
+
 
 ### Visualization in Code
 
