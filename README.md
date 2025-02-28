@@ -38,4 +38,3 @@ In the provided JavaScript code using Three.js, the double cone is created by ge
 3. **Animation**:
    - The double cone is animated by rotating it around the x and y axes in the animation loop.
 
-This setup allows you to visualize the double cone in a 3D space and animate it to see its structure from different angles. The equations define the unique shape of the double cone, and the code translates these equations into a visual representation.
