@@ -7,13 +7,7 @@ A **double cone** is a geometric shape formed by two identical cones that share 
 The parametric equations you provided define the surface of the double cone in 3D space. Let's break down the equations:
 
 1. **Parametric Equations**:
-   \[
-   \begin{cases}
-   x = v \cos(u) \\
-   y = (e^{\sin(v)} - 1) \cos\left(u + \frac{\pi}{3}\right) \\
-   z = 1 - e^{c \cos(v)} \cos\left(u - \frac{2\pi}{3}\right)
-   \end{cases}
-   \]
+   ![Image](https://github.com/user-attachments/assets/b4a22660-18e4-4960-bd91-dd1ba4ac28bf)
 
    Here, \( u \) and \( v \) are parameters that vary over specific ranges:
    - \( 0 \leq u \leq 2\pi \) (angle around the axis)
